@@ -1,0 +1,28 @@
+.header {
+	background: #FFD2E8;
+	text-align: center;
+	color: #555;
+	padding: 0px 0px 1px 0px;
+	width: 100%;
+	font-size: 1.3em;
+	margin: 0;
+}
+
+.header-logo {
+	padding: 10px 0 0 0;
+	height: 65px;
+}
+
+.header-logo-img {
+	animation: App-logo-spin infinite 15s linear;
+	height: 80px;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+.header-brand {
+	font-weight: 700;
+}

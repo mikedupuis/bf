@@ -1,0 +1,32 @@
+.bf-input {
+}
+
+textarea {
+	min-width: 400px;
+	min-height: 100px;
+	font-size: 1.1em;
+	border: 3px solid #cccccc;
+	padding: 5px;
+	resize: none;
+}
+
+.btn {
+    background-color: #FFD2E8;
+	color: #555;
+    border: none;
+    padding: 4px 30px;
+    text-align: center;
+	text-transform: uppercase;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+	margin: 5px 0 0 0;
+}
+
+.btn:hover {
+	cursor: pointer;
+}
+
+.btn-right {
+	float: right;
+}
